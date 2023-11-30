@@ -26,6 +26,8 @@ export default function Document() {
                 <meta name="msapplication-TileColor" content="#da532c" />
                 <meta name="theme-color" content="#ffffff" />
 
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5218187278726369"
+     crossorigin="anonymous"/>
                 {/* Global Site Tag (gtag.js) - Google Analytics */}
                 <script
                     async
